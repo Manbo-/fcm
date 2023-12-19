@@ -334,3 +334,5 @@ class FCM
                   end
   end
 end
+
+require_relative "./fcm/v1"
